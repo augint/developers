@@ -1,0 +1,1 @@
+# Setting up a fresh OSX installation for ruby development
