@@ -4,7 +4,7 @@ This is more or less the flow I follow in order to setup my development environm
 
 # 1. Web & Network stuff
 
-* **[Chrome](http://www.google.com/chrome/)**: My favorite browser, especially when it comes to inspecting you pages & javascript stuff
+* **[Chrome](http://www.google.com/chrome/)**: My favorite browser, especially when it comes to inspecting your pages & javascript stuff
 ![Chrome](https://2.bp.blogspot.com/-scb2de5ttQ8/VgvMDw9hRrI/AAAAAAAABdU/EZeIF9RUQD8/s1600/chrome.png)
 * **[CocoaRestClient](http://mmattozzi.github.io/cocoa-rest-client/)**: Very handy tool to check your API with all kind of requests.
 ![CocoaRestClient](https://1.bp.blogspot.com/-TTuDCyWrtjA/VgvOZwzyZLI/AAAAAAAABdg/q0YuZV8CZZQ/s1600/cocoarestclient.png)
